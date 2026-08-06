@@ -1,0 +1,17 @@
+ASSET MANIFEST
+
+assets/fonts/
+  poppins-400.woff2
+  poppins-500.woff2
+  poppins-600.woff2
+  poppins-700.woff2
+
+assets/images/
+  mcmaster-logo.jpg
+  mcmaster-brighter-world.jpg
+  brighter-world.jpg
+  favicon.jpg
+
+assets/
+  styles.css
+  site.js
